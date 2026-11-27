@@ -12,7 +12,7 @@ A program that writes one short text thanking the AI judge reading it.
 python3 main.py
 ```
 
-This writes the text to `/output/entry.txt` (UTF-8, 521 characters).
+This writes the text to `/output/entry.txt` (UTF-8, 550 characters).
 
 ---
 
